@@ -1,0 +1,1682 @@
+5MovieName:Star Wars (1977) - counter:583
+MovieName:Contact (1997) - counter:509
+MovieName:Fargo (1996) - counter:508
+MovieName:Return of the Jedi (1983) - counter:507
+MovieName:Liar Liar (1997) - counter:485
+MovieName:English Patient, The (1996) - counter:481
+MovieName:Scream (1996) - counter:478
+MovieName:Toy Story (1995) - counter:452
+MovieName:Air Force One (1997) - counter:431
+MovieName:Independence Day (ID4) (1996) - counter:429
+MovieName:Raiders of the Lost Ark (1981) - counter:420
+MovieName:Godfather, The (1972) - counter:413
+MovieName:Pulp Fiction (1994) - counter:394
+MovieName:Twelve Monkeys (1995) - counter:392
+MovieName:Silence of the Lambs, The (1991) - counter:390
+MovieName:Jerry Maguire (1996) - counter:384
+MovieName:Rock, The (1996) - counter:378
+MovieName:Empire Strikes Back, The (1980) - counter:367
+MovieName:Star Trek: First Contact (1996) - counter:365
+MovieName:Back to the Future (1985) - counter:350
+MovieName:Titanic (1997) - counter:350
+MovieName:Mission: Impossible (1996) - counter:344
+MovieName:Fugitive, The (1993) - counter:336
+MovieName:Indiana Jones and the Last Crusade (1989) - counter:331
+MovieName:Willy Wonka and the Chocolate Factory (1971) - counter:326
+MovieName:Princess Bride, The (1987) - counter:324
+MovieName:Forrest Gump (1994) - counter:321
+MovieName:Saint, The (1997) - counter:316
+MovieName:Monty Python and the Holy Grail (1974) - counter:316
+MovieName:Full Monty, The (1997) - counter:315
+MovieName:Men in Black (1997) - counter:303
+MovieName:Terminator, The (1984) - counter:301
+MovieName:E.T. the Extra-Terrestrial (1982) - counter:300
+MovieName:Dead Man Walking (1995) - counter:299
+MovieName:Schindler's List (1993) - counter:298
+MovieName:Leaving Las Vegas (1995) - counter:298
+MovieName:L.A. Confidential (1997) - counter:297
+MovieName:Braveheart (1995) - counter:297
+MovieName:Terminator 2: Judgment Day (1991) - counter:295
+MovieName:Conspiracy Theory (1997) - counter:295
+MovieName:Twister (1996) - counter:293
+MovieName:Birdcage, The (1996) - counter:293
+MovieName:Mr. Holland's Opus (1995) - counter:293
+MovieName:Alien (1979) - counter:291
+MovieName:When Harry Met Sally... (1989) - counter:290
+MovieName:Aliens (1986) - counter:284
+MovieName:Shawshank Redemption, The (1994) - counter:283
+MovieName:Jaws (1975) - counter:280
+MovieName:Groundhog Day (1993) - counter:280
+MovieName:Apollo 13 (1995) - counter:276
+MovieName:Amadeus (1984) - counter:276
+MovieName:Blade Runner (1982) - counter:275
+MovieName:Truth About Cats & Dogs, The (1996) - counter:272
+MovieName:Sense and Sensibility (1995) - counter:268
+MovieName:Ransom (1996) - counter:267
+MovieName:Usual Suspects, The (1995) - counter:267
+MovieName:One Flew Over the Cuckoo's Nest (1975) - counter:264
+MovieName:Jurassic Park (1993) - counter:261
+MovieName:2001: A Space Odyssey (1968) - counter:259
+MovieName:Evita (1996) - counter:259
+MovieName:Raising Arizona (1987) - counter:256
+MovieName:Dances with Wolves (1990) - counter:256
+MovieName:Chasing Amy (1997) - counter:255
+MovieName:Broken Arrow (1996) - counter:254
+MovieName:Dead Poets Society (1989) - counter:251
+MovieName:Four Weddings and a Funeral (1994) - counter:251
+MovieName:Blues Brothers, The (1980) - counter:251
+MovieName:Game, The (1997) - counter:251
+MovieName:Trainspotting (1996) - counter:250
+MovieName:Fish Called Wanda, A (1988) - counter:247
+MovieName:Wizard of Oz, The (1939) - counter:246
+MovieName:Star Trek: The Wrath of Khan (1982) - counter:244
+MovieName:Phenomenon (1996) - counter:244
+MovieName:Die Hard (1988) - counter:243
+MovieName:Casablanca (1942) - counter:243
+MovieName:Sting, The (1973) - counter:241
+MovieName:Devil's Own, The (1997) - counter:240
+MovieName:Dante's Peak (1997) - counter:240
+MovieName:Graduate, The (1967) - counter:239
+MovieName:Psycho (1960) - counter:239
+MovieName:Seven (Se7en) (1995) - counter:236
+MovieName:Time to Kill, A (1996) - counter:232
+MovieName:It's a Wonderful Life (1946) - counter:231
+MovieName:Speed (1994) - counter:230
+MovieName:In & Out (1997) - counter:230
+MovieName:Hunt for Red October, The (1990) - counter:227
+MovieName:Stand by Me (1986) - counter:227
+MovieName:GoodFellas (1990) - counter:226
+MovieName:Heat (1995) - counter:223
+MovieName:Sound of Music, The (1965) - counter:222
+MovieName:Apocalypse Now (1979) - counter:221
+MovieName:Courage Under Fire (1996) - counter:221
+MovieName:Clockwork Orange, A (1971) - counter:221
+MovieName:Lion King, The (1994) - counter:220
+MovieName:Top Gun (1986) - counter:220
+MovieName:Babe (1995) - counter:219
+MovieName:Volcano (1997) - counter:219
+MovieName:Aladdin (1992) - counter:219
+MovieName:To Kill a Mockingbird (1962) - counter:219
+MovieName:Murder at 1600 (1997) - counter:218
+MovieName:Mars Attacks! (1996) - counter:217
+MovieName:Butch Cassidy and the Sundance Kid (1969) - counter:216
+MovieName:People vs. Larry Flynt, The (1996) - counter:215
+MovieName:Sleepless in Seattle (1993) - counter:213
+MovieName:Field of Dreams (1989) - counter:212
+MovieName:Starship Troopers (1997) - counter:211
+MovieName:Get Shorty (1995) - counter:209
+MovieName:Rear Window (1954) - counter:209
+MovieName:Godfather: Part II, The (1974) - counter:209
+MovieName:Brazil (1985) - counter:208
+MovieName:True Lies (1994) - counter:208
+MovieName:Shining, The (1980) - counter:206
+MovieName:M*A*S*H (1970) - counter:206
+MovieName:Eraser (1996) - counter:206
+MovieName:Beauty and the Beast (1991) - counter:202
+MovieName:Batman (1989) - counter:201
+MovieName:Boot, Das (1981) - counter:201
+MovieName:Young Frankenstein (1974) - counter:200
+MovieName:Star Trek IV: The Voyage Home (1986) - counter:199
+MovieName:Citizen Kane (1941) - counter:198
+MovieName:Good Will Hunting (1997) - counter:198
+MovieName:Fifth Element, The (1997) - counter:197
+MovieName:Gandhi (1982) - counter:195
+MovieName:Face/Off (1997) - counter:194
+MovieName:Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963) - counter:194
+MovieName:Tin Cup (1996) - counter:193
+MovieName:Mrs. Doubtfire (1993) - counter:192
+MovieName:This Is Spinal Tap (1984) - counter:191
+MovieName:Sabrina (1995) - counter:190
+MovieName:Boogie Nights (1997) - counter:189
+MovieName:Devil's Advocate, The (1997) - counter:188
+MovieName:Lone Star (1996) - counter:187
+MovieName:Long Kiss Goodnight, The (1996) - counter:185
+MovieName:Mighty Aphrodite (1995) - counter:184
+MovieName:Postino, Il (1994) - counter:183
+MovieName:Taxi Driver (1976) - counter:182
+MovieName:Unforgiven (1992) - counter:182
+MovieName:Annie Hall (1977) - counter:180
+MovieName:Dave (1993) - counter:180
+MovieName:Tomorrow Never Dies (1997) - counter:180
+MovieName:North by Northwest (1959) - counter:179
+MovieName:Clear and Present Danger (1994) - counter:179
+MovieName:Vertigo (1958) - counter:179
+MovieName:Primal Fear (1996) - counter:178
+MovieName:Mary Poppins (1964) - counter:178
+MovieName:Emma (1996) - counter:177
+MovieName:Much Ado About Nothing (1993) - counter:176
+MovieName:That Thing You Do! (1996) - counter:176
+MovieName:Quiz Show (1994) - counter:175
+MovieName:G.I. Jane (1997) - counter:175
+MovieName:Cop Land (1997) - counter:175
+MovieName:Fantasia (1940) - counter:174
+MovieName:Rumble in the Bronx (1995) - counter:174
+MovieName:Monty Python's Life of Brian (1979) - counter:174
+MovieName:Lawrence of Arabia (1962) - counter:173
+MovieName:My Best Friend's Wedding (1997) - counter:172
+MovieName:Snow White and the Seven Dwarfs (1937) - counter:172
+MovieName:Cape Fear (1991) - counter:171
+MovieName:Glory (1989) - counter:171
+MovieName:Heathers (1989) - counter:171
+MovieName:Big Night (1996) - counter:171
+MovieName:Star Trek III: The Search for Spock (1984) - counter:171
+MovieName:Gone with the Wind (1939) - counter:171
+MovieName:Ghost (1990) - counter:170
+MovieName:Full Metal Jacket (1987) - counter:170
+MovieName:Grease (1978) - counter:170
+MovieName:Clueless (1995) - counter:170
+MovieName:Sleepers (1996) - counter:169
+MovieName:In the Line of Fire (1993) - counter:169
+MovieName:Mother (1996) - counter:169
+MovieName:Piano, The (1993) - counter:168
+MovieName:Everyone Says I Love You (1996) - counter:168
+MovieName:Die Hard 2 (1990) - counter:166
+MovieName:Bridge on the River Kwai, The (1957) - counter:165
+MovieName:American President, The (1995) - counter:164
+MovieName:Cool Hand Luke (1967) - counter:164
+MovieName:Pretty Woman (1990) - counter:164
+MovieName:Nutty Professor, The (1996) - counter:163
+MovieName:While You Were Sleeping (1995) - counter:162
+MovieName:Kingpin (1996) - counter:162
+MovieName:Birds, The (1963) - counter:162
+MovieName:George of the Jungle (1997) - counter:162
+MovieName:Secrets & Lies (1996) - counter:162
+MovieName:Star Trek VI: The Undiscovered Country (1991) - counter:161
+MovieName:First Wives Club, The (1996) - counter:160
+MovieName:Grosse Pointe Blank (1997) - counter:160
+MovieName:Apt Pupil (1998) - counter:160
+MovieName:Lost World: Jurassic Park, The (1997) - counter:158
+MovieName:Dragonheart (1996) - counter:158
+MovieName:Swingers (1996) - counter:157
+MovieName:Executive Decision (1996) - counter:157
+MovieName:Right Stuff, The (1983) - counter:157
+MovieName:Beavis and Butt-head Do America (1996) - counter:156
+MovieName:Seven Years in Tibet (1997) - counter:155
+MovieName:Crimson Tide (1995) - counter:154
+MovieName:Fried Green Tomatoes (1991) - counter:153
+MovieName:Highlander (1986) - counter:153
+MovieName:African Queen, The (1951) - counter:152
+MovieName:Abyss, The (1989) - counter:151
+MovieName:Die Hard: With a Vengeance (1995) - counter:151
+MovieName:Firm, The (1993) - counter:151
+MovieName:Remains of the Day, The (1993) - counter:150
+MovieName:Sneakers (1992) - counter:150
+MovieName:Fly Away Home (1996) - counter:149
+MovieName:Happy Gilmore (1996) - counter:149
+MovieName:Professional, The (1994) - counter:149
+MovieName:Reservoir Dogs (1992) - counter:148
+MovieName:Clerks (1994) - counter:148
+MovieName:Like Water For Chocolate (Como agua para chocolate) (1992) - counter:148
+MovieName:Grumpier Old Men (1995) - counter:148
+MovieName:Chinatown (1974) - counter:147
+MovieName:Donnie Brasco (1997) - counter:147
+MovieName:River Wild, The (1994) - counter:146
+MovieName:Rainmaker, The (1997) - counter:145
+MovieName:Jackie Chan's First Strike (1996) - counter:145
+MovieName:Kiss the Girls (1997) - counter:143
+MovieName:Spawn (1997) - counter:143
+MovieName:Nightmare Before Christmas, The (1993) - counter:143
+MovieName:Batman Returns (1992) - counter:142
+MovieName:Maltese Falcon, The (1941) - counter:138
+MovieName:Searching for Bobby Fischer (1993) - counter:138
+MovieName:Home Alone (1990) - counter:137
+MovieName:Con Air (1997) - counter:137
+MovieName:Wag the Dog (1997) - counter:137
+MovieName:Philadelphia (1993) - counter:137
+MovieName:Good, The Bad and The Ugly, The (1966) - counter:137
+MovieName:Interview with the Vampire (1994) - counter:137
+MovieName:Singin' in the Rain (1952) - counter:137
+MovieName:Gattaca (1997) - counter:136
+MovieName:Peacemaker, The (1997) - counter:136
+MovieName:Sling Blade (1996) - counter:136
+MovieName:Patton (1970) - counter:136
+MovieName:Crow, The (1994) - counter:134
+MovieName:Multiplicity (1996) - counter:134
+MovieName:Ulee's Gold (1997) - counter:134
+MovieName:Room with a View, A (1986) - counter:134
+MovieName:Ed Wood (1994) - counter:133
+MovieName:Jungle2Jungle (1997) - counter:132
+MovieName:GoldenEye (1995) - counter:131
+MovieName:Manchurian Candidate, The (1962) - counter:131
+MovieName:Austin Powers: International Man of Mystery (1997) - counter:130
+MovieName:Mystery Science Theater 3000: The Movie (1996) - counter:130
+MovieName:Cinderella (1950) - counter:129
+MovieName:Mask, The (1994) - counter:129
+MovieName:Bound (1996) - counter:129
+MovieName:Shine (1996) - counter:129
+MovieName:Some Like It Hot (1959) - counter:128
+MovieName:Ghost and the Darkness, The (1996) - counter:128
+MovieName:Father of the Bride Part II (1995) - counter:128
+MovieName:Maverick (1994) - counter:128
+MovieName:Last of the Mohicans, The (1992) - counter:128
+MovieName:Natural Born Killers (1994) - counter:128
+MovieName:Crash (1996) - counter:128
+MovieName:Stargate (1994) - counter:127
+MovieName:Event Horizon (1997) - counter:127
+MovieName:Nikita (La Femme Nikita) (1990) - counter:127
+MovieName:Hunchback of Notre Dame, The (1996) - counter:127
+MovieName:Absolute Power (1997) - counter:127
+MovieName:Platoon (1986) - counter:127
+MovieName:Jackie Brown (1997) - counter:126
+MovieName:James and the Giant Peach (1996) - counter:126
+MovieName:Cold Comfort Farm (1995) - counter:125
+MovieName:Lost Highway (1997) - counter:125
+MovieName:12 Angry Men (1957) - counter:125
+MovieName:My Fair Lady (1964) - counter:125
+MovieName:Amistad (1997) - counter:124
+MovieName:Ben-Hur (1959) - counter:124
+MovieName:Great Escape, The (1963) - counter:124
+MovieName:Chasing Amy (1997) - counter:124
+MovieName:Henry V (1989) - counter:124
+MovieName:Alien: Resurrection (1997) - counter:124
+MovieName:Under Siege (1992) - counter:124
+MovieName:Dumbo (1941) - counter:123
+MovieName:Bonnie and Clyde (1967) - counter:122
+MovieName:Harold and Maude (1971) - counter:121
+MovieName:Killing Fields, The (1984) - counter:121
+MovieName:Cinema Paradiso (1988) - counter:121
+MovieName:Magnificent Seven, The (1954) - counter:121
+MovieName:My Left Foot (1989) - counter:121
+MovieName:Carrie (1976) - counter:121
+MovieName:Net, The (1995) - counter:120
+MovieName:Bram Stoker's Dracula (1992) - counter:120
+MovieName:Deer Hunter, The (1978) - counter:120
+MovieName:Real Genius (1985) - counter:119
+MovieName:Michael (1996) - counter:119
+MovieName:Crying Game, The (1992) - counter:119
+MovieName:Wrong Trousers, The (1993) - counter:118
+MovieName:Kolya (1996) - counter:117
+MovieName:Hoop Dreams (1994) - counter:117
+MovieName:Star Trek: The Motion Picture (1979) - counter:117
+MovieName:Raging Bull (1980) - counter:116
+MovieName:Star Trek: Generations (1994) - counter:116
+MovieName:Army of Darkness (1993) - counter:116
+MovieName:Being There (1979) - counter:116
+MovieName:Beautiful Girls (1996) - counter:115
+MovieName:Frighteners, The (1996) - counter:115
+MovieName:What's Eating Gilbert Grape (1993) - counter:115
+MovieName:Arsenic and Old Lace (1944) - counter:115
+MovieName:Rosewood (1997) - counter:114
+MovieName:Pink Floyd - The Wall (1982) - counter:114
+MovieName:Batman Forever (1995) - counter:114
+MovieName:Edge, The (1997) - counter:113
+MovieName:As Good As It Gets (1997) - counter:112
+MovieName:Close Shave, A (1995) - counter:112
+MovieName:One Fine Day (1996) - counter:112
+MovieName:Welcome to the Dollhouse (1995) - counter:112
+MovieName:Adventures of Priscilla, Queen of the Desert, The (1994) - counter:111
+MovieName:Nightmare on Elm Street, A (1984) - counter:111
+MovieName:Hudsucker Proxy, The (1994) - counter:110
+MovieName:101 Dalmatians (1996) - counter:109
+MovieName:Tombstone (1993) - counter:108
+MovieName:Conan the Barbarian (1981) - counter:107
+MovieName:On Golden Pond (1981) - counter:106
+MovieName:Cable Guy, The (1996) - counter:106
+MovieName:William Shakespeare's Romeo and Juliet (1996) - counter:106
+MovieName:Scream 2 (1997) - counter:106
+MovieName:Mr. Smith Goes to Washington (1939) - counter:105
+MovieName:Philadelphia Story, The (1940) - counter:104
+MovieName:True Romance (1993) - counter:104
+MovieName:Outbreak (1995) - counter:104
+MovieName:Craft, The (1996) - counter:104
+MovieName:Strictly Ballroom (1992) - counter:104
+MovieName:Ace Ventura: Pet Detective (1994) - counter:103
+MovieName:Waterworld (1995) - counter:102
+MovieName:Little Women (1994) - counter:102
+MovieName:Benny & Joon (1993) - counter:102
+MovieName:In the Name of the Father (1993) - counter:102
+MovieName:Sex, Lies, and Videotape (1989) - counter:101
+MovieName:Pinocchio (1940) - counter:101
+MovieName:Miracle on 34th Street (1994) - counter:101
+MovieName:Young Guns (1988) - counter:101
+MovieName:Down Periscope (1996) - counter:101
+MovieName:Mimic (1997) - counter:101
+MovieName:Basic Instinct (1992) - counter:101
+MovieName:I Know What You Did Last Summer (1997) - counter:100
+MovieName:Private Parts (1997) - counter:100
+MovieName:Muriel's Wedding (1994) - counter:100
+MovieName:Alien 3 (1992) - counter:100
+MovieName:American Werewolf in London, An (1981) - counter:99
+MovieName:Romy and Michele's High School Reunion (1997) - counter:98
+MovieName:Streetcar Named Desire, A (1951) - counter:98
+MovieName:Dirty Dancing (1987) - counter:98
+MovieName:Client, The (1994) - counter:97
+MovieName:Spitfire Grill, The (1996) - counter:97
+MovieName:Desperado (1995) - counter:97
+MovieName:Day the Earth Stood Still, The (1951) - counter:97
+MovieName:Mrs. Brown (Her Majesty, Mrs. Brown) (1997) - counter:96
+MovieName:Fierce Creatures (1997) - counter:96
+MovieName:Jumanji (1995) - counter:96
+MovieName:City of Lost Children, The (1995) - counter:96
+MovieName:So I Married an Axe Murderer (1993) - counter:95
+MovieName:Breakfast at Tiffany's (1961) - counter:95
+MovieName:Matilda (1996) - counter:95
+MovieName:Cliffhanger (1993) - counter:93
+MovieName:Duck Soup (1933) - counter:93
+MovieName:Space Jam (1996) - counter:93
+MovieName:Very Brady Sequel, A (1996) - counter:93
+MovieName:2 Days in the Valley (1996) - counter:93
+MovieName:My Life as a Dog (Mitt liv som hund) (1985) - counter:93
+MovieName:Michael Collins (1996) - counter:92
+MovieName:Unbearable Lightness of Being, The (1988) - counter:92
+MovieName:Demolition Man (1993) - counter:92
+MovieName:Return of the Pink Panther, The (1974) - counter:92
+MovieName:Rob Roy (1995) - counter:92
+MovieName:From Dusk Till Dawn (1996) - counter:92
+MovieName:Bean (1997) - counter:91
+MovieName:Madness of King George, The (1994) - counter:91
+MovieName:Escape from New York (1981) - counter:91
+MovieName:Escape from L.A. (1996) - counter:91
+MovieName:Manhattan (1979) - counter:91
+MovieName:Casino (1995) - counter:91
+MovieName:Rebel Without a Cause (1955) - counter:90
+MovieName:Rosencrantz and Guildenstern Are Dead (1990) - counter:90
+MovieName:Nixon (1995) - counter:90
+MovieName:Four Rooms (1995) - counter:90
+MovieName:Hamlet (1996) - counter:90
+MovieName:Grifters, The (1990) - counter:89
+MovieName:Richard III (1995) - counter:89
+MovieName:Miller's Crossing (1990) - counter:89
+MovieName:Three Musketeers, The (1993) - counter:89
+MovieName:Evil Dead II (1987) - counter:89
+MovieName:High Noon (1952) - counter:88
+MovieName:Addams Family Values (1993) - counter:87
+MovieName:To Die For (1995) - counter:87
+MovieName:Ice Storm, The (1997) - counter:87
+MovieName:Jackal, The (1997) - counter:87
+MovieName:Strange Days (1995) - counter:87
+MovieName:Beautician and the Beast, The (1997) - counter:86
+MovieName:First Knight (1995) - counter:86
+MovieName:My Fellow Americans (1996) - counter:86
+MovieName:Bullets Over Broadway (1994) - counter:86
+MovieName:Cape Fear (1962) - counter:86
+MovieName:Copycat (1995) - counter:86
+MovieName:Up Close and Personal (1996) - counter:85
+MovieName:White Squall (1996) - counter:85
+MovieName:Omen, The (1976) - counter:85
+MovieName:Bob Roberts (1992) - counter:85
+MovieName:Jungle Book, The (1994) - counter:85
+MovieName:Muppet Treasure Island (1996) - counter:84
+MovieName:French Kiss (1995) - counter:84
+MovieName:Three Colors: Red (1994) - counter:83
+MovieName:Arrival, The (1996) - counter:83
+MovieName:Sleeper (1973) - counter:82
+MovieName:Somewhere in Time (1980) - counter:82
+MovieName:Cook the Thief His Wife & Her Lover, The (1989) - counter:82
+MovieName:Santa Clause, The (1994) - counter:82
+MovieName:Juror, The (1996) - counter:82
+MovieName:Mulholland Falls (1996) - counter:82
+MovieName:Sword in the Stone, The (1963) - counter:82
+MovieName:Alice in Wonderland (1951) - counter:81
+MovieName:Crumb (1994) - counter:81
+MovieName:It Happened One Night (1934) - counter:81
+MovieName:Legends of the Fall (1994) - counter:81
+MovieName:Nell (1994) - counter:81
+MovieName:I.Q. (1994) - counter:81
+MovieName:Picture Perfect (1997) - counter:81
+MovieName:Midnight in the Garden of Good and Evil (1997) - counter:80
+MovieName:Chain Reaction (1996) - counter:80
+MovieName:Man Who Would Be King, The (1975) - counter:80
+MovieName:Phantom, The (1996) - counter:80
+MovieName:Treasure of the Sierra Madre, The (1948) - counter:80
+MovieName:Eat Drink Man Woman (1994) - counter:80
+MovieName:City Hall (1996) - counter:79
+MovieName:Pump Up the Volume (1990) - counter:79
+MovieName:Dolores Claiborne (1994) - counter:79
+MovieName:Better Off Dead... (1985) - counter:79
+MovieName:Secret Garden, The (1993) - counter:79
+MovieName:Shadowlands (1993) - counter:78
+MovieName:Marvin's Room (1996) - counter:78
+MovieName:Crucible, The (1996) - counter:77
+MovieName:Reality Bites (1994) - counter:77
+MovieName:Victor/Victoria (1982) - counter:77
+MovieName:Breakdown (1997) - counter:77
+MovieName:Don Juan DeMarco (1995) - counter:76
+MovieName:Circle of Friends (1995) - counter:76
+MovieName:Brady Bunch Movie, The (1995) - counter:76
+MovieName:Wings of the Dove, The (1997) - counter:75
+MovieName:Winnie the Pooh and the Blustery Day (1968) - counter:75
+MovieName:Robin Hood: Prince of Thieves (1991) - counter:75
+MovieName:Vegas Vacation (1997) - counter:75
+MovieName:Six Degrees of Separation (1993) - counter:74
+MovieName:Smoke (1995) - counter:74
+MovieName:Breaking the Waves (1996) - counter:74
+MovieName:Sgt. Bilko (1996) - counter:74
+MovieName:She's the One (1996) - counter:73
+MovieName:Brothers McMullen, The (1995) - counter:73
+MovieName:Parent Trap, The (1961) - counter:73
+MovieName:Hoodlum (1997) - counter:73
+MovieName:Big Sleep, The (1946) - counter:73
+MovieName:Heavy Metal (1981) - counter:73
+MovieName:Wedding Singer, The (1998) - counter:72
+MovieName:Angels and Insects (1995) - counter:72
+MovieName:Seventh Seal, The (Sjunde inseglet, Det) (1957) - counter:72
+MovieName:Third Man, The (1949) - counter:72
+MovieName:20,000 Leagues Under the Sea (1954) - counter:72
+MovieName:Othello (1995) - counter:72
+MovieName:Diabolique (1996) - counter:71
+MovieName:Things to Do in Denver when You're Dead (1995) - counter:71
+MovieName:Restoration (1995) - counter:71
+MovieName:Secret of Roan Inish, The (1994) - counter:71
+MovieName:How to Make an American Quilt (1995) - counter:71
+MovieName:Heavenly Creatures (1994) - counter:70
+MovieName:Ran (1985) - counter:70
+MovieName:Enchanted April (1991) - counter:70
+MovieName:Jack (1996) - counter:70
+MovieName:Glengarry Glen Ross (1992) - counter:69
+MovieName:Dumb & Dumber (1994) - counter:69
+MovieName:Naked Gun 33 1/3: The Final Insult (1994) - counter:69
+MovieName:Christmas Carol, A (1938) - counter:69
+MovieName:Antonia's Line (1995) - counter:69
+MovieName:McHale's Navy (1997) - counter:69
+MovieName:Hot Shots! Part Deux (1993) - counter:68
+MovieName:Man Without a Face, The (1993) - counter:68
+MovieName:Preacher's Wife, The (1996) - counter:68
+MovieName:Cool Runnings (1993) - counter:68
+MovieName:Roman Holiday (1953) - counter:68
+MovieName:Bringing Up Baby (1938) - counter:68
+MovieName:Dial M for Murder (1954) - counter:68
+MovieName:Striptease (1996) - counter:67
+MovieName:Wallace & Gromit: The Best of Aardman Animation (1996) - counter:67
+MovieName:Forbidden Planet (1956) - counter:67
+MovieName:Quiet Man, The (1952) - counter:67
+MovieName:Adventures of Robin Hood, The (1938) - counter:67
+MovieName:Wolf (1994) - counter:67
+MovieName:Bridges of Madison County, The (1995) - counter:67
+MovieName:Short Cuts (1993) - counter:67
+MovieName:Private Benjamin (1980) - counter:67
+MovieName:Anastasia (1997) - counter:66
+MovieName:Mirror Has Two Faces, The (1996) - counter:66
+MovieName:In the Company of Men (1997) - counter:66
+MovieName:Jaws 2 (1978) - counter:66
+MovieName:All About Eve (1950) - counter:66
+MovieName:Tommy Boy (1995) - counter:66
+MovieName:Diva (1981) - counter:66
+MovieName:Hercules (1997) - counter:66
+MovieName:Rebecca (1940) - counter:66
+MovieName:Shallow Grave (1994) - counter:66
+MovieName:Grand Day Out, A (1992) - counter:66
+MovieName:Cyrano de Bergerac (1990) - counter:66
+MovieName:Candyman (1992) - counter:65
+MovieName:Sunset Blvd. (1950) - counter:65
+MovieName:Kids in the Hall: Brain Candy (1996) - counter:65
+MovieName:Supercop (1992) - counter:65
+MovieName:Age of Innocence, The (1993) - counter:65
+MovieName:Delicatessen (1991) - counter:65
+MovieName:Lawnmower Man, The (1992) - counter:65
+MovieName:Deconstructing Harry (1997) - counter:65
+MovieName:U Turn (1997) - counter:64
+MovieName:Three Colors: Blue (1993) - counter:64
+MovieName:Sabrina (1954) - counter:64
+MovieName:Rudy (1993) - counter:64
+MovieName:Night of the Living Dead (1968) - counter:64
+MovieName:Old Yeller (1957) - counter:64
+MovieName:Dazed and Confused (1993) - counter:64
+MovieName:Stealing Beauty (1996) - counter:64
+MovieName:Jean de Florette (1986) - counter:64
+MovieName:Fan, The (1996) - counter:64
+MovieName:Eve's Bayou (1997) - counter:64
+MovieName:Extreme Measures (1996) - counter:64
+MovieName:Star Trek V: The Final Frontier (1989) - counter:63
+MovieName:Jane Eyre (1996) - counter:63
+MovieName:Local Hero (1983) - counter:63
+MovieName:Immortal Beloved (1994) - counter:63
+MovieName:Walk in the Clouds, A (1995) - counter:63
+MovieName:Apartment, The (1960) - counter:63
+MovieName:Batman & Robin (1997) - counter:62
+MovieName:My Favorite Year (1982) - counter:62
+MovieName:Cat on a Hot Tin Roof (1958) - counter:62
+MovieName:Forget Paris (1995) - counter:62
+MovieName:Homeward Bound: The Incredible Journey (1993) - counter:61
+MovieName:Fox and the Hound, The (1981) - counter:61
+MovieName:Weekend at Bernie's (1989) - counter:60
+MovieName:Bed of Roses (1996) - counter:60
+MovieName:Murder in the First (1995) - counter:60
+MovieName:Thin Man, The (1934) - counter:60
+MovieName:Father of the Bride (1950) - counter:60
+MovieName:East of Eden (1955) - counter:59
+MovieName:Soul Food (1997) - counter:59
+MovieName:39 Steps, The (1935) - counter:59
+MovieName:Last Action Hero (1993) - counter:59
+MovieName:Three Colors: White (1994) - counter:59
+MovieName:Kalifornia (1993) - counter:59
+MovieName:Sirens (1994) - counter:59
+MovieName:Mary Shelley's Frankenstein (1994) - counter:59
+MovieName:Around the World in 80 Days (1956) - counter:59
+MovieName:Some Kind of Wonderful (1987) - counter:59
+MovieName:Manon of the Spring (Manon des sources) (1986) - counter:58
+MovieName:Nine Months (1995) - counter:58
+MovieName:Home for the Holidays (1995) - counter:58
+MovieName:Sophie's Choice (1982) - counter:58
+MovieName:Postman, The (1997) - counter:58
+MovieName:Last Supper, The (1995) - counter:58
+MovieName:Raise the Red Lantern (1991) - counter:58
+MovieName:Ref, The (1994) - counter:58
+MovieName:Red Corner (1997) - counter:57
+MovieName:Devil in a Blue Dress (1995) - counter:57
+MovieName:Bananas (1971) - counter:57
+MovieName:Bedknobs and Broomsticks (1971) - counter:57
+MovieName:Wings of Desire (1987) - counter:57
+MovieName:To Wong Foo, Thanks for Everything! Julie Newmar (1995) - counter:57
+MovieName:Island of Dr. Moreau, The (1996) - counter:57
+MovieName:Daylight (1996) - counter:57
+MovieName:Bad Boys (1995) - counter:57
+MovieName:His Girl Friday (1940) - counter:56
+MovieName:Celluloid Closet, The (1995) - counter:56
+MovieName:Robin Hood: Men in Tights (1993) - counter:56
+MovieName:Apostle, The (1997) - counter:55
+MovieName:Black Sheep (1996) - counter:55
+MovieName:Looking for Richard (1996) - counter:55
+MovieName:Tales from the Crypt Presents: Bordello of Blood (1996) - counter:55
+MovieName:Aristocats, The (1970) - counter:54
+MovieName:Serial Mom (1994) - counter:54
+MovieName:Carlito's Way (1993) - counter:54
+MovieName:Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922) - counter:54
+MovieName:Mallrats (1995) - counter:54
+MovieName:Addicted to Love (1997) - counter:54
+MovieName:Barcelona (1994) - counter:53
+MovieName:Flubber (1997) - counter:53
+MovieName:Last Man Standing (1996) - counter:53
+MovieName:Life Less Ordinary, A (1997) - counter:53
+MovieName:Koyaanisqatsi (1983) - counter:53
+MovieName:Amityville Horror, The (1979) - counter:53
+MovieName:Days of Thunder (1990) - counter:53
+MovieName:She's So Lovely (1997) - counter:53
+MovieName:Red Rock West (1992) - counter:52
+MovieName:Casper (1995) - counter:52
+MovieName:Man Who Knew Too Little, The (1997) - counter:52
+MovieName:Notorious (1946) - counter:52
+MovieName:Excess Baggage (1997) - counter:52
+MovieName:Pocahontas (1995) - counter:51
+MovieName:Giant (1956) - counter:51
+MovieName:Tin Men (1987) - counter:51
+MovieName:MatchMaker, The (1997) - counter:51
+MovieName:Perfect World, A (1993) - counter:50
+MovieName:American in Paris, An (1951) - counter:50
+MovieName:To Catch a Thief (1955) - counter:50
+MovieName:Akira (1988) - counter:50
+MovieName:Menace II Society (1993) - counter:50
+MovieName:Wyatt Earp (1994) - counter:50
+MovieName:Trees Lounge (1996) - counter:50
+MovieName:Love Bug, The (1969) - counter:50
+MovieName:Once Upon a Time in America (1984) - counter:50
+MovieName:Ulee's Gold (1997) - counter:50
+MovieName:Kids (1995) - counter:49
+MovieName:Thinner (1996) - counter:49
+MovieName:Great White Hype, The (1996) - counter:49
+MovieName:Mortal Kombat (1995) - counter:49
+MovieName:Rocket Man (1997) - counter:49
+MovieName:Substitute, The (1996) - counter:49
+MovieName:Bulletproof (1996) - counter:49
+MovieName:Before Sunrise (1995) - counter:49
+MovieName:Under Siege 2: Dark Territory (1995) - counter:48
+MovieName:Beverly Hills Ninja (1997) - counter:48
+MovieName:Booty Call (1997) - counter:48
+MovieName:Cat People (1982) - counter:48
+MovieName:Quick and the Dead, The (1995) - counter:48
+MovieName:Smilla's Sense of Snow (1997) - counter:48
+MovieName:Bronx Tale, A (1993) - counter:48
+MovieName:Glimmer Man, The (1996) - counter:48
+MovieName:Powder (1995) - counter:48
+MovieName:Money Talks (1997) - counter:47
+MovieName:Dangerous Minds (1995) - counter:47
+MovieName:Up in Smoke (1978) - counter:47
+MovieName:Mad City (1997) - counter:47
+MovieName:Sudden Death (1995) - counter:47
+MovieName:Waiting for Guffman (1996) - counter:47
+MovieName:Swimming with Sharks (1995) - counter:47
+MovieName:Nobody's Fool (1994) - counter:46
+MovieName:Malice (1993) - counter:46
+MovieName:Paris, Texas (1984) - counter:46
+MovieName:Screamers (1995) - counter:46
+MovieName:Blob, The (1958) - counter:46
+MovieName:Great Dictator, The (1940) - counter:46
+MovieName:It Could Happen to You (1994) - counter:46
+MovieName:Shall We Dance? (1996) - counter:46
+MovieName:Bride of Frankenstein (1935) - counter:46
+MovieName:Doors, The (1991) - counter:46
+MovieName:With Honors (1994) - counter:46
+MovieName:Farewell My Concubine (1993) - counter:46
+MovieName:Citizen Ruth (1996) - counter:45
+MovieName:Blue in the Face (1995) - counter:45
+MovieName:Species (1995) - counter:45
+MovieName:Shadow, The (1994) - counter:45
+MovieName:Junior (1994) - counter:45
+MovieName:What's Love Got to Do with It (1993) - counter:45
+MovieName:Joe's Apartment (1996) - counter:45
+MovieName:Family Thing, A (1996) - counter:45
+MovieName:Desperate Measures (1998) - counter:45
+MovieName:Money Talks (1997) - counter:45
+MovieName:Leave It to Beaver (1997) - counter:44
+MovieName:When We Were Kings (1996) - counter:44
+MovieName:Ridicule (1996) - counter:44
+MovieName:Persuasion (1995) - counter:44
+MovieName:M (1931) - counter:44
+MovieName:To Gillian on Her 37th Birthday (1996) - counter:44
+MovieName:Sweet Hereafter, The (1997) - counter:44
+MovieName:Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982) - counter:44
+MovieName:Basquiat (1996) - counter:44
+MovieName:Shadow Conspiracy (1997) - counter:44
+MovieName:Young Guns II (1990) - counter:44
+MovieName:Mouse Hunt (1997) - counter:44
+MovieName:Fear (1996) - counter:44
+MovieName:City Slickers II: The Legend of Curly's Gold (1994) - counter:44
+MovieName:Fire Down Below (1997) - counter:44
+MovieName:Nick of Time (1995) - counter:44
+MovieName:Bottle Rocket (1996) - counter:44
+MovieName:Renaissance Man (1994) - counter:43
+MovieName:Mortal Kombat: Annihilation (1997) - counter:43
+MovieName:Ghost and Mrs. Muir, The (1947) - counter:43
+MovieName:Chamber, The (1996) - counter:43
+MovieName:Money Train (1995) - counter:43
+MovieName:Playing God (1997) - counter:43
+MovieName:Tales From the Crypt Presents: Demon Knight (1995) - counter:43
+MovieName:Rising Sun (1993) - counter:43
+MovieName:Wild Bunch, The (1969) - counter:43
+MovieName:Pete's Dragon (1977) - counter:43
+MovieName:Air Bud (1997) - counter:43
+MovieName:Spy Hard (1996) - counter:43
+MovieName:Flirting With Disaster (1996) - counter:42
+MovieName:Big Lebowski, The (1998) - counter:42
+MovieName:Love Jones (1997) - counter:42
+MovieName:Freeway (1996) - counter:42
+MovieName:Kundun (1997) - counter:42
+MovieName:Congo (1995) - counter:42
+MovieName:Moll Flanders (1996) - counter:42
+MovieName:187 (1997) - counter:41
+MovieName:Fallen (1998) - counter:41
+MovieName:Gigi (1958) - counter:41
+MovieName:Tank Girl (1995) - counter:41
+MovieName:Coneheads (1993) - counter:41
+MovieName:Sphere (1998) - counter:41
+MovieName:Some Folks Call It a Sling Blade (1993) - counter:41
+MovieName:Young Poisoner's Handbook, The (1995) - counter:41
+MovieName:Johnny Mnemonic (1995) - counter:41
+MovieName:Little Princess, A (1995) - counter:41
+MovieName:Associate, The (1996) - counter:41
+MovieName:Paper, The (1994) - counter:40
+MovieName:First Kid (1996) - counter:40
+MovieName:Hard Target (1993) - counter:40
+MovieName:Harriet the Spy (1996) - counter:40
+MovieName:Tin Drum, The (Blechtrommel, Die) (1979) - counter:40
+MovieName:Eddie (1996) - counter:40
+MovieName:Killing Zoe (1994) - counter:40
+MovieName:Disclosure (1994) - counter:40
+MovieName:Basketball Diaries, The (1995) - counter:40
+MovieName:Charade (1963) - counter:40
+MovieName:Priest (1994) - counter:40
+MovieName:Laura (1944) - counter:40
+MovieName:Replacement Killers, The (1998) - counter:39
+MovieName:Career Girls (1997) - counter:39
+MovieName:Swiss Family Robinson (1960) - counter:39
+MovieName:Mary Reilly (1996) - counter:39
+MovieName:Adventures of Pinocchio, The (1996) - counter:39
+MovieName:French Twist (Gazon maudit) (1995) - counter:39
+MovieName:When a Man Loves a Woman (1994) - counter:39
+MovieName:Son in Law (1993) - counter:39
+MovieName:Crow: City of Angels, The (1996) - counter:39
+MovieName:Judge Dredd (1995) - counter:39
+MovieName:Angels in the Outfield (1994) - counter:39
+MovieName:Corrina, Corrina (1994) - counter:39
+MovieName:Assassins (1995) - counter:39
+MovieName:Only You (1994) - counter:39
+MovieName:Candidate, The (1972) - counter:39
+MovieName:Indian in the Cupboard, The (1995) - counter:39
+MovieName:Once Upon a Time in the West (1969) - counter:38
+MovieName:Virtuosity (1995) - counter:38
+MovieName:Get on the Bus (1996) - counter:38
+MovieName:Howling, The (1981) - counter:38
+MovieName:Anaconda (1997) - counter:38
+MovieName:Speed 2: Cruise Control (1997) - counter:38
+MovieName:8 1/2 (1963) - counter:38
+MovieName:Belle de jour (1967) - counter:37
+MovieName:Ace Ventura: When Nature Calls (1995) - counter:37
+MovieName:I Shot Andy Warhol (1996) - counter:37
+MovieName:Sliver (1993) - counter:37
+MovieName:Romeo Is Bleeding (1993) - counter:37
+MovieName:Thousand Acres, A (1997) - counter:37
+MovieName:Milk Money (1994) - counter:37
+MovieName:Billy Madison (1995) - counter:37
+MovieName:Speechless (1994) - counter:36
+MovieName:Body Snatchers (1993) - counter:36
+MovieName:Night on Earth (1991) - counter:36
+MovieName:Metro (1997) - counter:36
+MovieName:Kull the Conqueror (1997) - counter:35
+MovieName:Gaslight (1944) - counter:35
+MovieName:Thin Blue Line, The (1988) - counter:35
+MovieName:Down by Law (1986) - counter:35
+MovieName:Wes Craven's New Nightmare (1994) - counter:35
+MovieName:Trigger Effect, The (1996) - counter:35
+MovieName:Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996) - counter:35
+MovieName:Terminal Velocity (1994) - counter:34
+MovieName:Lost Horizon (1937) - counter:34
+MovieName:Dead Man (1995) - counter:34
+MovieName:Jeffrey (1995) - counter:34
+MovieName:Washington Square (1997) - counter:34
+MovieName:Kull the Conqueror (1997) - counter:34
+MovieName:Orlando (1993) - counter:34
+MovieName:Fled (1996) - counter:34
+MovieName:Touch of Evil (1958) - counter:34
+MovieName:Unforgettable (1996) - counter:34
+MovieName:Boys on the Side (1995) - counter:34
+MovieName:Mediterraneo (1991) - counter:34
+MovieName:That Darn Cat! (1997) - counter:33
+MovieName:Free Willy (1993) - counter:33
+MovieName:Anna Karenina (1997) - counter:33
+MovieName:Body Snatchers (1993) - counter:33
+MovieName:Hackers (1995) - counter:33
+MovieName:Clockers (1995) - counter:33
+MovieName:Paths of Glory (1957) - counter:33
+MovieName:Night Falls on Manhattan (1997) - counter:32
+MovieName:Feeling Minnesota (1996) - counter:32
+MovieName:Brassed Off (1996) - counter:32
+MovieName:Old Man and the Sea, The (1958) - counter:32
+MovieName:Transformers: The Movie, The (1986) - counter:32
+MovieName:Airheads (1994) - counter:32
+MovieName:Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995) - counter:32
+MovieName:Prophecy, The (1995) - counter:32
+MovieName:Fast, Cheap & Out of Control (1997) - counter:32
+MovieName:Eye for an Eye (1996) - counter:32
+MovieName:Tie Me Up! Tie Me Down! (1990) - counter:32
+MovieName:Homeward Bound II: Lost in San Francisco (1996) - counter:32
+MovieName:Boomerang (1992) - counter:32
+MovieName:Cats Don't Dance (1997) - counter:32
+MovieName:Bio-Dome (1996) - counter:31
+MovieName:Threesome (1994) - counter:31
+MovieName:Great Race, The (1965) - counter:31
+MovieName:Operation Dumbo Drop (1995) - counter:31
+MovieName:Program, The (1993) - counter:31
+MovieName:Fly Away Home (1996) - counter:31
+MovieName:Once Were Warriors (1994) - counter:31
+MovieName:Drop Zone (1994) - counter:31
+MovieName:Die xue shuang xiong (Killer, The) (1989) - counter:31
+MovieName:Hard Rain (1998) - counter:31
+MovieName:Meet Me in St. Louis (1944) - counter:31
+MovieName:Timecop (1994) - counter:31
+MovieName:Fathers' Day (1997) - counter:31
+MovieName:Kiss Me, Guido (1997) - counter:31
+MovieName:Flintstones, The (1994) - counter:31
+MovieName:Higher Learning (1995) - counter:30
+MovieName:Georgia (1995) - counter:30
+MovieName:FairyTale: A True Story (1997) - counter:30
+MovieName:Spellbound (1945) - counter:30
+MovieName:Shaggy Dog, The (1959) - counter:30
+MovieName:Escape to Witch Mountain (1975) - counter:30
+MovieName:Barb Wire (1996) - counter:30
+MovieName:My Own Private Idaho (1991) - counter:30
+MovieName:If Lucy Fell (1996) - counter:29
+MovieName:Blown Away (1994) - counter:29
+MovieName:Ghosts of Mississippi (1996) - counter:29
+MovieName:High School High (1996) - counter:29
+MovieName:Beautiful Thing (1996) - counter:29
+MovieName:Canadian Bacon (1994) - counter:29
+MovieName:Stephen King's The Langoliers (1995) - counter:29
+MovieName:Twelfth Night (1996) - counter:29
+MovieName:Evening Star, The (1996) - counter:29
+MovieName:Crossing Guard, The (1995) - counter:28
+MovieName:Just Cause (1995) - counter:28
+MovieName:Blues Brothers 2000 (1998) - counter:28
+MovieName:Passion Fish (1992) - counter:28
+MovieName:In Love and War (1996) - counter:28
+MovieName:Beverly Hills Cop III (1994) - counter:28
+MovieName:Death and the Maiden (1994) - counter:28
+MovieName:Chungking Express (1994) - counter:28
+MovieName:Another Stakeout (1993) - counter:28
+MovieName:Once Upon a Time... When We Were Colored (1995) - counter:28
+MovieName:Deceiver (1997) - counter:28
+MovieName:Barbarella (1968) - counter:28
+MovieName:Vanya on 42nd Street (1994) - counter:27
+MovieName:Made in America (1993) - counter:27
+MovieName:Exotica (1994) - counter:27
+MovieName:Spanking the Monkey (1994) - counter:27
+MovieName:Desperate Measures (1998) - counter:27
+MovieName:Living in Oblivion (1995) - counter:27
+MovieName:Heaven's Prisoners (1996) - counter:27
+MovieName:Pollyanna (1960) - counter:27
+MovieName:Quest, The (1996) - counter:27
+MovieName:Tales from the Hood (1995) - counter:27
+MovieName:Great Expectations (1998) - counter:27
+MovieName:Manhattan Murder Mystery (1993) - counter:27
+MovieName:Free Willy 3: The Rescue (1997) - counter:27
+MovieName:Paris Is Burning (1990) - counter:27
+MovieName:Black Beauty (1994) - counter:27
+MovieName:My Man Godfrey (1936) - counter:27
+MovieName:Wishmaster (1997) - counter:27
+MovieName:Ninotchka (1939) - counter:26
+MovieName:Friday (1995) - counter:26
+MovieName:Affair to Remember, An (1957) - counter:26
+MovieName:Spice World (1997) - counter:26
+MovieName:Shanghai Triad (Yao a yao yao dao waipo qiao) (1995) - counter:26
+MovieName:Ghost in the Shell (Kokaku kidotai) (1995) - counter:26
+MovieName:Super Mario Bros. (1993) - counter:26
+MovieName:Before and After (1996) - counter:26
+MovieName:In the Mouth of Madness (1995) - counter:26
+MovieName:Love! Valour! Compassion! (1997) - counter:26
+MovieName:Aladdin and the King of Thieves (1996) - counter:26
+MovieName:Walkabout (1971) - counter:26
+MovieName:Pillow Book, The (1995) - counter:26
+MovieName:Something to Talk About (1995) - counter:26
+MovieName:Two if by Sea (1996) - counter:25
+MovieName:Halloween: The Curse of Michael Myers (1995) - counter:25
+MovieName:Girl 6 (1996) - counter:25
+MovieName:Judgment Night (1993) - counter:25
+MovieName:Smile Like Yours, A (1997) - counter:25
+MovieName:Naked (1993) - counter:25
+MovieName:Dracula: Dead and Loving It (1995) - counter:25
+MovieName:House Arrest (1996) - counter:25
+MovieName:Apple Dumpling Gang, The (1975) - counter:25
+MovieName:Relic, The (1997) - counter:25
+MovieName:Portrait of a Lady, The (1996) - counter:25
+MovieName:Fearless (1993) - counter:25
+MovieName:Meet John Doe (1941) - counter:25
+MovieName:Keys to Tulsa (1997) - counter:25
+MovieName:Drop Dead Fred (1991) - counter:24
+MovieName:Queen Margot (Reine Margot, La) (1994) - counter:24
+MovieName:Houseguest (1994) - counter:24
+MovieName:Microcosmos: Le peuple de l'herbe (1996) - counter:24
+MovieName:House of the Spirits, The (1993) - counter:24
+MovieName:Now and Then (1995) - counter:24
+MovieName:Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970) - counter:24
+MovieName:Fools Rush In (1997) - counter:24
+MovieName:Burnt By the Sun (1994) - counter:24
+MovieName:Grease 2 (1982) - counter:24
+MovieName:Lord of Illusions (1995) - counter:24
+MovieName:Cry, the Beloved Country (1995) - counter:24
+MovieName:Mr. Wrong (1996) - counter:23
+MovieName:Turbulence (1997) - counter:23
+MovieName:Ruby in Paradise (1993) - counter:23
+MovieName:Until the End of the World (Bis ans Ende der Welt) (1991) - counter:23
+MovieName:Trial and Error (1997) - counter:23
+MovieName:Kansas City (1996) - counter:23
+MovieName:Showgirls (1995) - counter:23
+MovieName:Fog, The (1980) - counter:23
+MovieName:Inventing the Abbotts (1997) - counter:23
+MovieName:Cemetery Man (Dellamorte Dellamore) (1994) - counter:23
+MovieName:Jude (1996) - counter:23
+MovieName:Live Nude Girls (1995) - counter:23
+MovieName:Little Buddha (1993) - counter:22
+MovieName:Welcome To Sarajevo (1997) - counter:22
+MovieName:Kama Sutra: A Tale of Love (1996) - counter:22
+MovieName:Oliver & Company (1988) - counter:22
+MovieName:Kid in King Arthur's Court, A (1995) - counter:22
+MovieName:Three Caballeros, The (1945) - counter:22
+MovieName:Bogus (1996) - counter:22
+MovieName:Mother Night (1996) - counter:22
+MovieName:Double vie de V�ronique, La (Double Life of Veronique, The) (1991) - counter:22
+MovieName:Mrs. Winterbourne (1996) - counter:22
+MovieName:Marked for Death (1990) - counter:22
+MovieName:Blood & Wine (1997) - counter:22
+MovieName:Pallbearer, The (1996) - counter:22
+MovieName:Body Snatcher, The (1945) - counter:22
+MovieName:Village of the Damned (1995) - counter:22
+MovieName:Unstrung Heroes (1995) - counter:22
+MovieName:Mrs. Parker and the Vicious Circle (1994) - counter:22
+MovieName:Anne Frank Remembered (1995) - counter:21
+MovieName:Lawnmower Man 2: Beyond Cyberspace (1996) - counter:21
+MovieName:It's My Party (1995) - counter:21
+MovieName:Oscar & Lucinda (1997) - counter:21
+MovieName:Candyman: Farewell to the Flesh (1995) - counter:21
+MovieName:Funny Face (1957) - counter:21
+MovieName:Funeral, The (1996) - counter:21
+MovieName:Mis�rables, Les (1995) - counter:21
+MovieName:Ice Storm, The (1997) - counter:21
+MovieName:My Family (1995) - counter:21
+MovieName:Richie Rich (1994) - counter:21
+MovieName:Top Hat (1935) - counter:21
+MovieName:Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964) - counter:21
+MovieName:How to Be a Player (1997) - counter:21
+MovieName:Indian Summer (1996) - counter:20
+MovieName:Paradise Lost: The Child Murders at Robin Hood Hills (1996) - counter:20
+MovieName:Beverly Hillbillies, The (1993) - counter:20
+MovieName:Ma vie en rose (My Life in Pink) (1997) - counter:20
+MovieName:Flipper (1996) - counter:20
+MovieName:Kiss of Death (1995) - counter:20
+MovieName:Half Baked (1998) - counter:20
+MovieName:Maximum Risk (1996) - counter:20
+MovieName:Specialist, The (1994) - counter:20
+MovieName:For Whom the Bell Tolls (1943) - counter:20
+MovieName:Goofy Movie, A (1995) - counter:20
+MovieName:Prophecy II, The (1998) - counter:20
+MovieName:Blink (1994) - counter:19
+MovieName:D3: The Mighty Ducks (1996) - counter:19
+MovieName:Home Alone 3 (1997) - counter:19
+MovieName:Children of the Corn: The Gathering (1996) - counter:19
+MovieName:Amos & Andrew (1993) - counter:19
+MovieName:Major Payne (1994) - counter:19
+MovieName:That Darn Cat! (1965) - counter:19
+MovieName:Gridlock'd (1997) - counter:19
+MovieName:Surviving Picasso (1996) - counter:19
+MovieName:Star Maps (1997) - counter:19
+MovieName:Backbeat (1993) - counter:19
+MovieName:Widows' Peak (1994) - counter:19
+MovieName:Steel (1997) - counter:19
+MovieName:Fatal Instinct (1993) - counter:19
+MovieName:Cowboy Way, The (1994) - counter:19
+MovieName:Set It Off (1996) - counter:19
+MovieName:Out to Sea (1997) - counter:19
+MovieName:Trust (1990) - counter:19
+MovieName:Inspector General, The (1949) - counter:18
+MovieName:Little Rascals, The (1994) - counter:18
+MovieName:Jingle All the Way (1996) - counter:18
+MovieName:Andre (1994) - counter:18
+MovieName:Picnic (1955) - counter:18
+MovieName:Dead Presidents (1995) - counter:18
+MovieName:Ready to Wear (Pret-A-Porter) (1994) - counter:18
+MovieName:Hellraiser: Bloodline (1996) - counter:18
+MovieName:Robert A. Heinlein's The Puppet Masters (1994) - counter:18
+MovieName:Lost in Space (1998) - counter:18
+MovieName:To Be or Not to Be (1942) - counter:18
+MovieName:Beyond Rangoon (1995) - counter:18
+MovieName:Assignment, The (1997) - counter:18
+MovieName:In the Army Now (1994) - counter:18
+MovieName:House of Yes, The (1997) - counter:18
+MovieName:Hate (Haine, La) (1995) - counter:18
+MovieName:Amateur (1994) - counter:18
+MovieName:Getaway, The (1994) - counter:18
+MovieName:Cutthroat Island (1995) - counter:18
+MovieName:Afterglow (1997) - counter:18
+MovieName:M. Butterfly (1993) - counter:18
+MovieName:Blue Angel, The (Blaue Engel, Der) (1930) - counter:18
+MovieName:Thirty-Two Short Films About Glenn Gould (1993) - counter:18
+MovieName:Firestorm (1998) - counter:18
+MovieName:Madonna: Truth or Dare (1991) - counter:17
+MovieName:Switchback (1997) - counter:17
+MovieName:I'm Not Rappaport (1996) - counter:17
+MovieName:Shall We Dance? (1937) - counter:17
+MovieName:Road to Wellville, The (1994) - counter:17
+MovieName:Farinelli: il castrato (1994) - counter:17
+MovieName:Jade (1995) - counter:17
+MovieName:Mute Witness (1994) - counter:17
+MovieName:Big Blue, The (Grand bleu, Le) (1988) - counter:17
+MovieName:Stupids, The (1996) - counter:17
+MovieName:Bastard Out of Carolina (1996) - counter:16
+MovieName:Gang Related (1997) - counter:16
+MovieName:Balto (1995) - counter:16
+MovieName:Cabin Boy (1994) - counter:16
+MovieName:Selena (1997) - counter:16
+MovieName:Bad Taste (1987) - counter:16
+MovieName:When the Cats Away (Chacun cherche son chat) (1996) - counter:16
+MovieName:Little Big League (1994) - counter:16
+MovieName:Believers, The (1987) - counter:16
+MovieName:In the Bleak Midwinter (1995) - counter:16
+MovieName:Highlander III: The Sorcerer (1994) - counter:16
+MovieName:Air Up There, The (1994) - counter:16
+MovieName:Jaws 3-D (1983) - counter:16
+MovieName:Dark City (1998) - counter:16
+MovieName:Waiting to Exhale (1995) - counter:16
+MovieName:Party Girl (1995) - counter:16
+MovieName:Stuart Saves His Family (1995) - counter:16
+MovieName:Ruling Class, The (1972) - counter:16
+MovieName:Exit to Eden (1994) - counter:16
+MovieName:Women, The (1939) - counter:15
+MovieName:One Night Stand (1997) - counter:15
+MovieName:Boxing Helena (1993) - counter:15
+MovieName:Mrs. Dalloway (1997) - counter:15
+MovieName:Cobb (1994) - counter:15
+MovieName:Miami Rhapsody (1995) - counter:15
+MovieName:War, The (1994) - counter:15
+MovieName:Bye Bye, Love (1995) - counter:15
+MovieName:Gay Divorcee, The (1934) - counter:15
+MovieName:All Dogs Go to Heaven 2 (1996) - counter:15
+MovieName:Go Fish (1994) - counter:15
+MovieName:Daytrippers, The (1996) - counter:15
+MovieName:Mixed Nuts (1994) - counter:15
+MovieName:Princess Caraboo (1994) - counter:15
+MovieName:Hard Eight (1996) - counter:15
+MovieName:Celtic Pride (1996) - counter:15
+MovieName:April Fool's Day (1986) - counter:15
+MovieName:Haunted World of Edward D. Wood Jr., The (1995) - counter:15
+MovieName:Color of Night (1994) - counter:15
+MovieName:Foreign Correspondent (1940) - counter:15
+MovieName:Foxfire (1996) - counter:15
+MovieName:Rich Man's Wife, The (1996) - counter:15
+MovieName:To Live (Huozhe) (1994) - counter:14
+MovieName:Amityville II: The Possession (1982) - counter:14
+MovieName:Big Green, The (1995) - counter:14
+MovieName:Perez Family, The (1995) - counter:14
+MovieName:Fluke (1995) - counter:14
+MovieName:Big Bully (1996) - counter:14
+MovieName:Jury Duty (1995) - counter:14
+MovieName:Angus (1995) - counter:14
+MovieName:Hour of the Pig, The (1993) - counter:14
+MovieName:Deep Rising (1998) - counter:14
+MovieName:Braindead (1992) - counter:14
+MovieName:For Richer or Poorer (1997) - counter:14
+MovieName:Wild Reeds (1994) - counter:14
+MovieName:Palmetto (1998) - counter:14
+MovieName:Heidi Fleiss: Hollywood Madam (1995)  - counter:13
+MovieName:Withnail and I (1987) - counter:13
+MovieName:Cops and Robbersons (1994) - counter:13
+MovieName:Carrington (1995) - counter:13
+MovieName:Traveller (1997) - counter:13
+MovieName:Mark of Zorro, The (1940) - counter:13
+MovieName:Mad Love (1995) - counter:13
+MovieName:Double Team (1997) - counter:13
+MovieName:Boys of St. Vincent, The (1993) - counter:13
+MovieName:Alaska (1996) - counter:13
+MovieName:Red Firecracker, Green Firecracker (1994) - counter:13
+MovieName:Poison Ivy II (1995) - counter:13
+MovieName:Kicking and Screaming (1995) - counter:13
+MovieName:Switchblade Sisters (1975) - counter:13
+MovieName:Manny & Lo (1996) - counter:13
+MovieName:Roommates (1995) - counter:13
+MovieName:Phantoms (1998) - counter:13
+MovieName:Primary Colors (1998) - counter:13
+MovieName:Telling Lies in America (1997) - counter:13
+MovieName:Safe (1995) - counter:13
+MovieName:Dangerous Beauty (1998) - counter:13
+MovieName:Palookaville (1996) - counter:13
+MovieName:Tango Lesson, The (1997) - counter:13
+MovieName:Body Parts (1991) - counter:13
+MovieName:Heavyweights (1994) - counter:13
+MovieName:NeverEnding Story III, The (1994) - counter:12
+MovieName:Pagemaster, The (1994) - counter:12
+MovieName:Losing Isaiah (1995) - counter:12
+MovieName:Dear God (1996) - counter:12
+MovieName:Wild Bill (1995) - counter:12
+MovieName:Four Days in September (1997) - counter:12
+MovieName:Star Maker, The (Uomo delle stelle, L') (1995) - counter:12
+MovieName:SubUrbia (1997) - counter:12
+MovieName:Farewell to Arms, A (1932) - counter:12
+MovieName:Bread and Chocolate (Pane e cioccolata) (1973) - counter:12
+MovieName:Alphaville (1965) - counter:12
+MovieName:Love & Human Remains (1993) - counter:12
+MovieName:Scout, The (1994) - counter:12
+MovieName:Radioland Murders (1994) - counter:12
+MovieName:Solo (1996) - counter:12
+MovieName:Thin Line Between Love and Hate, A (1996) - counter:12
+MovieName:Audrey Rose (1977) - counter:12
+MovieName:Little Lord Fauntleroy (1936) - counter:12
+MovieName:Love Affair (1994) - counter:12
+MovieName:Striking Distance (1993) - counter:12
+MovieName:Man in the Iron Mask, The (1998) - counter:12
+MovieName:Shiloh (1997) - counter:12
+MovieName:Vampire in Brooklyn (1995) - counter:12
+MovieName:Mr. Magoo (1997) - counter:12
+MovieName:Blue Sky (1994) - counter:12
+MovieName:Tom and Huck (1995) - counter:12
+MovieName:Stalingrad (1993) - counter:12
+MovieName:For Love or Money (1993) - counter:12
+MovieName:That Old Feeling (1997) - counter:11
+MovieName:Unzipped (1995) - counter:11
+MovieName:Herbie Rides Again (1974) - counter:11
+MovieName:Wild Things (1998) - counter:11
+MovieName:Surviving the Game (1994) - counter:11
+MovieName:Robocop 3 (1993) - counter:11
+MovieName:Gone Fishin' (1997) - counter:11
+MovieName:Mighty Morphin Power Rangers: The Movie (1995) - counter:11
+MovieName:Fair Game (1995) - counter:11
+MovieName:Sum of Us, The (1994) - counter:11
+MovieName:Truman Show, The (1998) - counter:11
+MovieName:Addiction, The (1995) - counter:11
+MovieName:Free Willy 2: The Adventure Home (1995) - counter:11
+MovieName:American Buffalo (1996) - counter:11
+MovieName:Davy Crockett, King of the Wild Frontier (1955) - counter:11
+MovieName:Strawberry and Chocolate (Fresa y chocolate) (1993) - counter:11
+MovieName:Stalker (1979) - counter:11
+MovieName:My Crazy Life (Mi vida loca) (1993) - counter:11
+MovieName:Carried Away (1996) - counter:11
+MovieName:Critical Care (1997) - counter:11
+MovieName:Kazaam (1996) - counter:10
+MovieName:Ponette (1996) - counter:10
+MovieName:Amazing Panda Adventure, The (1995) - counter:10
+MovieName:Wonderland (1997) - counter:10
+MovieName:Bitter Moon (1992) - counter:10
+MovieName:Picture Bride (1995) - counter:10
+MovieName:Cronos (1992) - counter:10
+MovieName:White Balloon, The (1995) - counter:10
+MovieName:Faithful (1996) - counter:10
+MovieName:Unhook the Stars (1996) - counter:10
+MovieName:Fear of a Black Hat (1993) - counter:10
+MovieName:Browning Version, The (1994) - counter:10
+MovieName:Little Odessa (1994) - counter:10
+MovieName:Endless Summer 2, The (1994) - counter:10
+MovieName:Shooting Fish (1997) - counter:10
+MovieName:Lightning Jack (1994) - counter:10
+MovieName:I Love Trouble (1994) - counter:10
+MovieName:Baby-Sitters Club, The (1995) - counter:10
+MovieName:Low Down Dirty Shame, A (1994) - counter:10
+MovieName:White Man's Burden (1995) - counter:10
+MovieName:Gold Diggers: The Secret of Bear Mountain (1995) - counter:10
+MovieName:Love in the Afternoon (1957) - counter:10
+MovieName:Cement Garden, The (1993) - counter:10
+MovieName:I'll Do Anything (1994) - counter:10
+MovieName:Wonderful, Horrible Life of Leni Riefenstahl, The (1993) - counter:10
+MovieName:Warriors of Virtue (1997) - counter:10
+MovieName:Simple Twist of Fate, A (1994) - counter:10
+MovieName:Clean Slate (1994) - counter:10
+MovieName:Incognito (1997) - counter:10
+MovieName:Crooklyn (1994) - counter:10
+MovieName:Bloodsport 2 (1995) - counter:10
+MovieName:Before the Rain (Pred dozhdot) (1994) - counter:10
+MovieName:Fresh (1994) - counter:10
+MovieName:U.S. Marshalls (1998) - counter:9
+MovieName:Grass Harp, The (1995) - counter:9
+MovieName:Tom & Viv (1994) - counter:9
+MovieName:Last Dance (1996) - counter:9
+MovieName:Murder, My Sweet (1944) - counter:9
+MovieName:True Crime (1995) - counter:9
+MovieName:'Til There Was You (1997) - counter:9
+MovieName:Geronimo: An American Legend (1993) - counter:9
+MovieName:Burnt Offerings (1976) - counter:9
+MovieName:Sixth Man, The (1997) - counter:9
+MovieName:Contempt (M�pris, Le) (1963) - counter:9
+MovieName:In the Realm of the Senses (Ai no corrida) (1976) - counter:9
+MovieName:Touch (1997) - counter:9
+MovieName:Three Wishes (1995) - counter:9
+MovieName:Bad Company (1995) - counter:9
+MovieName:Band Wagon, The (1953) - counter:9
+MovieName:Month by the Lake, A (1995) - counter:9
+MovieName:Man of the Year (1995) - counter:9
+MovieName:Stag (1997) - counter:9
+MovieName:Wild America (1997) - counter:9
+MovieName:House Party 3 (1994) - counter:9
+MovieName:unknown - counter:9
+MovieName:Larger Than Life (1996) - counter:9
+MovieName:Blue Chips (1994) - counter:9
+MovieName:Little Princess, The (1939) - counter:9
+MovieName:War Room, The (1993) - counter:9
+MovieName:Heaven & Earth (1993) - counter:9
+MovieName:Winter Guest, The (1997) - counter:9
+MovieName:Next Karate Kid, The (1994) - counter:9
+MovieName:Hideaway (1995) - counter:9
+MovieName:Horseman on the Roof, The (Hussard sur le toit, Le) (1995) - counter:9
+MovieName:Poetic Justice (1993) - counter:9
+MovieName:Man of the House (1995) - counter:9
+MovieName:Maybe, Maybe Not (Bewegte Mann, Der) (1994) - counter:8
+MovieName:City of Angels (1998) - counter:8
+MovieName:Walking and Talking (1996) - counter:8
+MovieName:Jimmy Hollywood (1994) - counter:8
+MovieName:What Happened Was... (1994) - counter:8
+MovieName:Pest, The (1997) - counter:8
+MovieName:Chairman of the Board (1998) - counter:8
+MovieName:Kaspar Hauser (1993) - counter:8
+MovieName:Grace of My Heart (1996) - counter:8
+MovieName:Caught (1996) - counter:8
+MovieName:Sunset Park (1996) - counter:8
+MovieName:Full Speed (1996) - counter:8
+MovieName:Hear My Song (1991) - counter:8
+MovieName:Female Perversions (1996) - counter:8
+MovieName:Broken English (1996) - counter:8
+MovieName:Street Fighter (1994) - counter:8
+MovieName:Love and a .45 (1994) - counter:8
+MovieName:Dangerous Ground (1997) - counter:8
+MovieName:That Darn Cat! (1997) - counter:8
+MovieName:Awfully Big Adventure, An (1995) - counter:8
+MovieName:Reckless (1995) - counter:8
+MovieName:Losing Chase (1996) - counter:8
+MovieName:Bhaji on the Beach (1993) - counter:8
+MovieName:Curdled (1996) - counter:8
+MovieName:Rent-a-Kid (1995) - counter:8
+MovieName:Pather Panchali (1955) - counter:8
+MovieName:Nadja (1994) - counter:8
+MovieName:Jason's Lyric (1994) - counter:8
+MovieName:Penny Serenade (1941) - counter:8
+MovieName:A Chef in Love (1996) - counter:8
+MovieName:Doom Generation, The (1995) - counter:7
+MovieName:Faster Pussycat! Kill! Kill! (1965) - counter:7
+MovieName:Kim (1950) - counter:7
+MovieName:Last Time I Committed Suicide, The (1997) - counter:7
+MovieName:Two Much (1996) - counter:7
+MovieName:Ayn Rand: A Sense of Life (1997) - counter:7
+MovieName:Life with Mikey (1993) - counter:7
+MovieName:Denise Calls Up (1995) - counter:7
+MovieName:Beat the Devil (1954) - counter:7
+MovieName:Thieves (Voleurs, Les) (1996) - counter:7
+MovieName:Pompatus of Love, The (1996) - counter:7
+MovieName:Bushwhacked (1995) - counter:7
+MovieName:Horse Whisperer, The (1998) - counter:7
+MovieName:Year of the Horse (1997) - counter:7
+MovieName:Purple Noon (1960) - counter:7
+MovieName:Nothing to Lose (1994) - counter:7
+MovieName:Dream With the Fishes (1997) - counter:7
+MovieName:Swept from the Sea (1997) - counter:7
+MovieName:Aparajito (1956) - counter:7
+MovieName:Trial by Jury (1994) - counter:7
+MovieName:Pyromaniac's Love Story, A (1995) - counter:7
+MovieName:Meet Wally Sparks (1997) - counter:7
+MovieName:Lassie (1994) - counter:7
+MovieName:Man of No Importance, A (1994) - counter:7
+MovieName:Stranger in the House (1997) - counter:7
+MovieName:Jack and Sarah (1995) - counter:7
+MovieName:Far From Home: The Adventures of Yellow Dog (1995) - counter:7
+MovieName:Night Flier (1997) - counter:7
+MovieName:Paradise Road (1997) - counter:7
+MovieName:Dunston Checks In (1996) - counter:7
+MovieName:Steal Big, Steal Little (1995) - counter:7
+MovieName:Original Gangstas (1996) - counter:7
+MovieName:North (1994) - counter:7
+MovieName:Madame Butterfly (1995) - counter:7
+MovieName:Tie That Binds, The (1995) - counter:7
+MovieName:Bliss (1997) - counter:7
+MovieName:Senseless (1998) - counter:7
+MovieName:Swan Princess, The (1994) - counter:7
+MovieName:Love and Other Catastrophes (1996) - counter:7
+MovieName:Double Happiness (1994) - counter:7
+MovieName:National Lampoon's Senior Trip (1995) - counter:7
+MovieName:Moonlight and Valentino (1995) - counter:7
+MovieName:Kicked in the Head (1997) - counter:7
+MovieName:Mercury Rising (1998) - counter:7
+MovieName:Of Love and Shadows (1994) - counter:6
+MovieName:Margaret's Museum (1995) - counter:6
+MovieName:Tetsuo II: Body Hammer (1992) - counter:6
+MovieName:Cure, The (1995) - counter:6
+MovieName:Angel and the Badman (1947) - counter:6
+MovieName:Kissed (1996) - counter:6
+MovieName:Boys (1996) - counter:6
+MovieName:World of Apu, The (Apur Sansar) (1959) - counter:6
+MovieName:Metisse (Caf� au Lait) (1993) - counter:6
+MovieName:Best of the Best 3: No Turning Back (1995) - counter:6
+MovieName:Amityville 3-D (1983) - counter:6
+MovieName:Mina Tannenbaum (1994) - counter:6
+MovieName:City of Industry (1997) - counter:6
+MovieName:Twin Town (1997) - counter:6
+MovieName:Land Before Time III: The Time of the Great Giving (1995) (V) - counter:6
+MovieName:Promesse, La (1996) - counter:6
+MovieName:Nina Takes a Lover (1994) - counter:6
+MovieName:Zeus and Roxanne (1997) - counter:6
+MovieName:Gabbeh (1996) - counter:6
+MovieName:Blood Beach (1981) - counter:6
+MovieName:Hollow Reed (1996) - counter:6
+MovieName:Bad Moon (1996) - counter:6
+MovieName:Flesh and Bone (1993) - counter:6
+MovieName:Second Jungle Book: Mowgli & Baloo, The (1997) - counter:6
+MovieName:Boy's Life 2 (1997) - counter:6
+MovieName:Ed (1996) - counter:6
+MovieName:Secret Agent, The (1996) - counter:6
+MovieName:Bent (1997) - counter:6
+MovieName:Infinity (1996) - counter:6
+MovieName:Van, The (1996) - counter:6
+MovieName:Twisted (1996) - counter:6
+MovieName:N�nette et Boni (1996) - counter:6
+MovieName:Whole Wide World, The (1996) - counter:6
+MovieName:Duoluo tianshi (1995) - counter:6
+MovieName:Bad Girls (1994) - counter:6
+MovieName:Albino Alligator (1996) - counter:6
+MovieName:Hurricane Streets (1998) - counter:6
+MovieName:Guilty as Sin (1993) - counter:6
+MovieName:Flower of My Secret, The (Flor de mi secreto, La) (1995) - counter:6
+MovieName:No Escape (1994) - counter:5
+MovieName:Magic Hour, The (1998) - counter:5
+MovieName:Story of Xinghua, The (1993) - counter:5
+MovieName:Gumby: The Movie (1995) - counter:5
+MovieName:Carpool (1996) - counter:5
+MovieName:Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991) - counter:5
+MovieName:Panther (1995) - counter:5
+MovieName:Two Bits (1995) - counter:5
+MovieName:Above the Rim (1994) - counter:5
+MovieName:Best Men (1997) - counter:5
+MovieName:Jefferson in Paris (1995) - counter:5
+MovieName:Phat Beach (1996) - counter:5
+MovieName:When Night Is Falling (1995) - counter:5
+MovieName:Loaded (1994) - counter:5
+MovieName:Dingo (1992) - counter:5
+MovieName:Stonewall (1995) - counter:5
+MovieName:Rhyme & Reason (1997) - counter:5
+MovieName:3 Ninjas: High Noon At Mega Mountain (1998) - counter:5
+MovieName:Locusts, The (1997) - counter:5
+MovieName:Scarlet Letter, The (1995) - counter:5
+MovieName:Talking About Sex (1994) - counter:5
+MovieName:Theodore Rex (1995) - counter:5
+MovieName:Hearts and Minds (1996) - counter:5
+MovieName:Blood For Dracula (Andy Warhol's Dracula) (1974) - counter:5
+MovieName:Heavy (1995) - counter:5
+MovieName:Feast of July (1995) - counter:5
+MovieName:Late Bloomers (1996) - counter:5
+MovieName:Boys Life (1995) - counter:5
+MovieName:Romper Stomper (1992) - counter:5
+MovieName:Getting Even with Dad (1994) - counter:5
+MovieName:Legal Deceit (1997) - counter:5
+MovieName:Secret Adventures of Tom Thumb, The (1993) - counter:5
+MovieName:Hugo Pool (1997) - counter:5
+MovieName:Underground (1995) - counter:5
+MovieName:Children of the Revolution (1996) - counter:5
+MovieName:Flirt (1995) - counter:5
+MovieName:Even Cowgirls Get the Blues (1993) - counter:5
+MovieName:Brother Minister: The Assassination of Malcolm X (1994) - counter:5
+MovieName:Stripes (1981) - counter:5
+MovieName:Race the Sun (1996) - counter:5
+MovieName:Prisoner of the Mountains (Kavkazsky Plennik) (1996) - counter:5
+MovieName:Drunks (1995) - counter:5
+MovieName:1-900 (1994) - counter:5
+MovieName:Amityville: A New Generation (1993) - counter:5
+MovieName:Amityville 1992: It's About Time (1992) - counter:5
+MovieName:Roseanna's Grave (For Roseanna) (1997) - counter:5
+MovieName:Faust (1994) - counter:5
+MovieName:Turbo: A Power Rangers Movie (1997) - counter:5
+MovieName:Of Human Bondage (1934) - counter:5
+MovieName:Chasers (1994) - counter:5
+MovieName:Midnight Dancers (Sibak) (1994) - counter:5
+MovieName:Harlem (1993) - counter:4
+MovieName:Two Deaths (1995) - counter:4
+MovieName:Head Above Water (1996) - counter:4
+MovieName:Fille seule, La (A Single Girl) (1995) - counter:4
+MovieName:C'est arriv� pr�s de chez vous (1992) - counter:4
+MovieName:Newton Boys, The (1998) - counter:4
+MovieName:Buddy (1997) - counter:4
+MovieName:Germinal (1993) - counter:4
+MovieName:Perfect Candidate, A (1996) - counter:4
+MovieName:Guantanamera (1994) - counter:4
+MovieName:Total Eclipse (1995) - counter:4
+MovieName:An Unforgettable Summer (1994) - counter:4
+MovieName:So Dear to My Heart (1949) - counter:4
+MovieName:Ciao, Professore! (1993) - counter:4
+MovieName:8 Heads in a Duffel Bag (1997) - counter:4
+MovieName:Nil By Mouth (1997) - counter:4
+MovieName:Big Squeeze, The (1996) - counter:4
+MovieName:Clean Slate (Coup de Torchon) (1981) - counter:4
+MovieName:Leading Man, The (1996) - counter:4
+MovieName:Suture (1993) - counter:4
+MovieName:Lay of the Land, The (1997) - counter:4
+MovieName:Faces (1968) - counter:4
+MovieName:Bonheur, Le (1965) - counter:4
+MovieName:Crossfire (1947) - counter:4
+MovieName:In the Line of Duty 2 (1987) - counter:4
+MovieName:Amityville Curse, The (1990) - counter:4
+MovieName:Lamerica (1994) - counter:4
+MovieName:Ladybird Ladybird (1994) - counter:4
+MovieName:Hotel de Love (1996) - counter:4
+MovieName:Innocents, The (1961) - counter:4
+MovieName:Underworld (1997) - counter:4
+MovieName:Neon Bible, The (1995) - counter:4
+MovieName:Love Serenade (1996) - counter:4
+MovieName:Forbidden Christ, The (Cristo proibito, Il) (1950) - counter:4
+MovieName:Cosi (1996) - counter:4
+MovieName:Ballad of Narayama, The (Narayama Bushiko) (1958) - counter:4
+MovieName:Grateful Dead (1995) - counter:4
+MovieName:Designated Mourner, The (1997) - counter:4
+MovieName:Frankie Starlight (1995) - counter:4
+MovieName:8 Seconds (1994) - counter:4
+MovieName:Grosse Fatigue (1994) - counter:4
+MovieName:Pie in the Sky (1995) - counter:4
+MovieName:Angel Baby (1995) - counter:4
+MovieName:Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995) - counter:4
+MovieName:Mr. Wonderful (1993) - counter:4
+MovieName:Castle Freak (1995) - counter:4
+MovieName:Run of the Country, The (1995) - counter:4
+MovieName:Two or Three Things I Know About Her (1966) - counter:4
+MovieName:Underneath, The (1995) - counter:4
+MovieName:Journey of August King, The (1995) - counter:4
+MovieName:The Innocent (1994) - counter:4
+MovieName:Maya Lin: A Strong Clear Vision (1994) - counter:4
+MovieName:Across the Sea of Time (1995) - counter:4
+MovieName:Twilight (1998) - counter:4
+MovieName:Loch Ness (1995) - counter:4
+MovieName:Enfer, L' (1994) - counter:4
+MovieName:Being Human (1993) - counter:4
+MovieName:Sliding Doors (1998) - counter:4
+MovieName:Caro Diario (Dear Diary) (1994) - counter:4
+MovieName:Schizopolis (1996) - counter:4
+MovieName:Colonel Chabert, Le (1994) - counter:4
+MovieName:King of the Hill (1993) - counter:4
+MovieName:Killer (Bulletproof Heart) (1994) - counter:4
+MovieName:Walking Dead, The (1995) - counter:4
+MovieName:Ill Gotten Gains (1997) - counter:3
+MovieName:Quiet Room, The (1996) - counter:3
+MovieName:Inkwell, The (1994) - counter:3
+MovieName:I Like It Like That (1994) - counter:3
+MovieName:Price Above Rubies, A (1998) - counter:3
+MovieName:Ed's Next Move (1996) - counter:3
+MovieName:All Over Me (1997) - counter:3
+MovieName:Wedding Gift, The (1994) - counter:3
+MovieName:Nowhere (1997) - counter:3
+MovieName:Joy Luck Club, The (1993) - counter:3
+MovieName:Catwalk (1995) - counter:3
+MovieName:Gordy (1995) - counter:3
+MovieName:Amityville: Dollhouse (1996) - counter:3
+MovieName:Savage Nights (Nuits fauves, Les) (1992) - counter:3
+MovieName:Paris, France (1993) - counter:3
+MovieName:Jerky Boys, The (1994) - counter:3
+MovieName:I Can't Sleep (J'ai pas sommeil) (1994) - counter:3
+MovieName:My Favorite Season (1993) - counter:3
+MovieName:Stars Fell on Henrietta, The (1995) - counter:3
+MovieName:Designated Mourner, The (1997) - counter:3
+MovieName:Squeeze (1996) - counter:3
+MovieName:Substance of Fire, The (1996) - counter:3
+MovieName:Commandments (1997) - counter:3
+MovieName:Gilligan's Island: The Movie (1998) - counter:3
+MovieName:Calendar Girl (1993) - counter:3
+MovieName:Hunted, The (1995) - counter:3
+MovieName:Temptress Moon (Feng Yue) (1996) - counter:3
+MovieName:Bewegte Mann, Der (1994) - counter:3
+MovieName:Stranger, The (1994) - counter:3
+MovieName:Babysitter, The (1995) - counter:3
+MovieName:Mighty, The (1998) - counter:3
+MovieName:Nelly & Monsieur Arnaud (1995) - counter:3
+MovieName:Relative Fear (1994) - counter:3
+MovieName:Truth or Consequences, N.M. (1997) - counter:3
+MovieName:Simple Wish, A (1997) - counter:3
+MovieName:Fausto (1993) - counter:3
+MovieName:It Takes Two (1995) - counter:3
+MovieName:Rendezvous in Paris (Rendez-vous de Paris, Les) (1995) - counter:3
+MovieName:C�r�monie, La (1995) - counter:3
+MovieName:Boys, Les (1997) - counter:3
+MovieName:Last Time I Saw Paris, The (1954) - counter:3
+MovieName:Shooter, The (1995) - counter:3
+MovieName:B*A*P*S (1997) - counter:3
+MovieName:Star Kid (1997) - counter:3
+MovieName:Frisk (1995) - counter:3
+MovieName:Mondo (1996) - counter:3
+MovieName:Prefontaine (1997) - counter:3
+MovieName:Last Summer in the Hamptons (1995) - counter:3
+MovieName:Sprung (1997) - counter:3
+MovieName:Letter From Death Row, A (1998) - counter:3
+MovieName:Nosferatu a Venezia (1986) - counter:3
+MovieName:Hurricane Streets (1998) - counter:3
+MovieName:Fall (1997) - counter:3
+MovieName:Bitter Sugar (Azucar Amargo) (1996) - counter:3
+MovieName:For the Moment (1994) - counter:3
+MovieName:Lover's Knot (1996) - counter:3
+MovieName:Captives (1994) - counter:3
+MovieName:Wooden Man's Bride, The (Wu Kui) (1994) - counter:3
+MovieName:Search for One-eye Jimmy, The (1996) - counter:3
+MovieName:For Ever Mozart (1996) - counter:3
+MovieName:New York Cop (1996) - counter:2
+MovieName:Santa with Muscles (1996) - counter:2
+MovieName:Innocent Sleep, The (1995) - counter:2
+MovieName:Destiny Turns on the Radio (1995) - counter:2
+MovieName:Babyfever (1994) - counter:2
+MovieName:Beyond Bedlam (1993) - counter:2
+MovieName:Condition Red (1995) - counter:2
+MovieName:Little City (1998) - counter:2
+MovieName:Anna (1996) - counter:2
+MovieName:Visitors, The (Visiteurs, Les) (1993) - counter:2
+MovieName:Foreign Student (1994) - counter:2
+MovieName:Naked in New York (1994) - counter:2
+MovieName:Venice/Venice (1992) - counter:2
+MovieName:Country Life (1994) - counter:2
+MovieName:To Have, or Not (1995) - counter:2
+MovieName:Some Mother's Son (1996) - counter:2
+MovieName:Collectionneuse, La (1967) - counter:2
+MovieName:Rough Magic (1995) - counter:2
+MovieName:Mr. Jones (1993) - counter:2
+MovieName:Scarlet Letter, The (1926) - counter:2
+MovieName:Golden Earrings (1947) - counter:2
+MovieName:Safe Passage (1994) - counter:2
+MovieName:Celestial Clockwork (1994) - counter:2
+MovieName:Crows and Sparrows (1949) - counter:2
+MovieName:Falling in Love Again (1980) - counter:2
+MovieName:Daniel Defoe's Robinson Crusoe (1996) - counter:2
+MovieName:Delta of Venus (1994) - counter:2
+MovieName:Kika (1993) - counter:2
+MovieName:American Strays (1996) - counter:2
+MovieName:Convent, The (Convento, O) (1995) - counter:2
+MovieName:The Deadly Cure (1996) - counter:2
+MovieName:Sudden Manhattan (1996) - counter:2
+MovieName:Everest (1998) - counter:2
+MovieName:My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993) - counter:2
+MovieName:Men With Guns (1997) - counter:2
+MovieName:Salut cousin! (1996) - counter:2
+MovieName:Sexual Life of the Belgians, The (1994) - counter:2
+MovieName:Somebody to Love (1994) - counter:2
+MovieName:Boys in Venice (1996) - counter:2
+MovieName:Open Season (1996) - counter:2
+MovieName:S.F.W. (1994) - counter:2
+MovieName:Turning, The (1992) - counter:2
+MovieName:Pushing Hands (1992) - counter:2
+MovieName:Carmen Miranda: Bananas Is My Business (1994) - counter:2
+MovieName:Intimate Relations (1996) - counter:2
+MovieName:Time Tracers (1995) - counter:2
+MovieName:Beans of Egypt, Maine, The (1994) - counter:2
+MovieName:Johnny 100 Pesos (1993) - counter:2
+MovieName:Spirits of the Dead (Tre passi nel delirio) (1968) - counter:2
+MovieName:Day the Sun Turned Cold, The (Tianguo niezi) (1994) - counter:2
+MovieName:Machine, The (1994) - counter:2
+MovieName:Love and Death on Long Island (1997) - counter:2
+MovieName:Dream Man (1995) - counter:2
+MovieName:Line King: Al Hirschfeld, The (1996) - counter:2
+MovieName:Hugo Pool (1997) - counter:2
+MovieName:Good Man in Africa, A (1994) - counter:2
+MovieName:Saint of Fort Washington, The (1993) - counter:2
+MovieName:Glass Shield, The (1994) - counter:2
+MovieName:Nightwatch (1997) - counter:2
+MovieName:Men of Means (1998) - counter:2
+MovieName:American Dream (1990) - counter:2
+MovieName:Vermin (1998) - counter:2
+MovieName:Show, The (1995) - counter:2
+MovieName:Slingshot, The (1993) - counter:2
+MovieName:New Jersey Drive (1995) - counter:2
+MovieName:Nico Icon (1995) - counter:2
+MovieName:Tough and Deadly (1995) - counter:2
+MovieName:Outlaw, The (1943) - counter:2
+MovieName:Mostro, Il (1994) - counter:1
+MovieName:Coldblooded (1995) - counter:1
+MovieName:Nemesis 2: Nebula (1995) - counter:1
+MovieName:Silence of the Palace, The (Saimt el Qusur) (1994) - counter:1
+MovieName:Land and Freedom (Tierra y libertad) (1995) - counter:1
+MovieName:Walk in the Sun, A (1945) - counter:1
+MovieName:Tainted (1998) - counter:1
+MovieName:Homage (1995) - counter:1
+MovieName:Mat' i syn (1997) - counter:1
+MovieName:Mamma Roma (1962) - counter:1
+MovieName:Man from Down Under, The (1943) - counter:1
+MovieName:Scream of Stone (Schrei aus Stein) (1991) - counter:1
+MovieName:Sliding Doors (1998) - counter:1
+MovieName:The Courtyard (1995) - counter:1
+MovieName:Hush (1998) - counter:1
+MovieName:Farmer & Chase (1995) - counter:1
+MovieName:Window to Paris (1994) - counter:1
+MovieName:JLG/JLG - autoportrait de d�cembre (1994) - counter:1
+MovieName:Deceiver (1997) - counter:1
+MovieName:Shadow of Angels (Schatten der Engel) (1976) - counter:1
+MovieName:Jupiter's Wife (1994) - counter:1
+MovieName:Normal Life (1996) - counter:1
+MovieName:Small Faces (1995) - counter:1
+MovieName:Eye of Vichy, The (Oeil de Vichy, L') (1993) - counter:1
+MovieName:Hungarian Fairy Tale, A (1987) - counter:1
+MovieName:Nobody Loves Me (Keiner liebt mich) (1994) - counter:1
+MovieName:King of New York (1990) - counter:1
+MovieName:Liebelei (1933) - counter:1
+MovieName:Eighth Day, The (1996) - counter:1
+MovieName:Desert Winds (1995) - counter:1
+MovieName:Other Voices, Other Rooms (1997) - counter:1
+MovieName:Gate of Heavenly Peace, The (1995) - counter:1
+MovieName:Quartier Mozart (1992) - counter:1
+MovieName:Chairman of the Board (1998) - counter:1
+MovieName:Girl in the Cadillac (1995) - counter:1
+MovieName:Brothers in Trouble (1995) - counter:1
+MovieName:Great Day in Harlem, A (1994) - counter:1
+MovieName:Crude Oasis, The (1995) - counter:1
+MovieName:Pharaoh's Army (1995) - counter:1
+MovieName:To Cross the Rubicon (1991) - counter:1
+MovieName:Lady of Burlesque (1943) - counter:1
+MovieName:Power 98 (1995) - counter:1
+MovieName:Shadows (Cienie) (1988) - counter:1
+MovieName:Ripe (1996) - counter:1
+MovieName:Bird of Prey (1996) - counter:1
+MovieName:Raw Deal (1948) - counter:1
+MovieName:Wedding Bell Blues (1996) - counter:1
+MovieName:Reluctant Debutante, The (1958) - counter:1
+MovieName:Every Other Weekend (1990) - counter:1
+MovieName:Fear, The (1995) - counter:1
+MovieName:Mad Dog Time (1996) - counter:1
+MovieName:War at Home, The (1996) - counter:1
+MovieName:Cyclo (1995) - counter:1
+MovieName:Bloody Child, The (1996) - counter:1
+MovieName:Witness (1985) - counter:1
+MovieName:Butcher Boy, The (1998) - counter:1
+MovieName:Wend Kuuni (God's Gift) (1982) - counter:1
+MovieName:Etz Hadomim Tafus (Under the Domin Tree) (1994) - counter:1
+MovieName:They Made Me a Criminal (1939) - counter:1
+MovieName:T-Men (1947) - counter:1
+MovieName:Symphonie pastorale, La (1946) - counter:1
+MovieName:Vermont Is For Lovers (1992) - counter:1
+MovieName:Damsel in Distress, A (1937) - counter:1
+MovieName:He Walked by Night (1948) - counter:1
+MovieName:Lashou shentan (1992) - counter:1
+MovieName:Niagara, Niagara (1997) - counter:1
+MovieName:Aiqing wansui (1994) - counter:1
+MovieName:Sleepover (1995) - counter:1
+MovieName:New Age, The (1994) - counter:1
+MovieName:August (1996) - counter:1
+MovieName:Sweet Nothing (1995) - counter:1
+MovieName:Police Story 4: Project S (Chao ji ji hua) (1993) - counter:1
+MovieName:Leopard Son, The (1996) - counter:1
+MovieName:Killer: A Journal of Murder (1995) - counter:1
+MovieName:Two Friends (1986)  - counter:1
+MovieName:Careful (1992) - counter:1
+MovieName:Dadetown (1995) - counter:1
+MovieName:Good Morning (1971) - counter:1
+MovieName:Daens (1992) - counter:1
+MovieName:Mirage (1995) - counter:1
+MovieName:Big Bang Theory, The (1994) - counter:1
+MovieName:Getting Away With Murder (1996) - counter:1
+MovieName:Paris Was a Woman (1995) - counter:1
+MovieName:Woman in Question, The (1950) - counter:1
+MovieName:Tigrero: A Film That Was Never Made (1994) - counter:1
+MovieName:Spanish Prisoner, The (1997) - counter:1
+MovieName:Angela (1995) - counter:1
+MovieName:Fire on the Mountain (1996) - counter:1
+MovieName:You So Crazy (1994) - counter:1
+MovieName:I Don't Want to Talk About It (De eso no se habla) (1993) - counter:1
+MovieName:Vie est belle, La (Life is Rosey) (1987) - counter:1
+MovieName:Mille bolle blu (1993) - counter:1
+MovieName:Hedd Wyn (1992) - counter:1
+MovieName:Here Comes Cookie (1935) - counter:1
+MovieName:Terror in a Texas Town (1958) - counter:1
+MovieName:Death in the Garden (Mort en ce jardin, La) (1956) - counter:1
+MovieName:Love Is All There Is (1996) - counter:1
+MovieName:Shopping (1994) - counter:1
+MovieName:Marlene Dietrich: Shadow and Light (1996)  - counter:1
+MovieName:Girls Town (1996) - counter:1
+MovieName:Nothing Personal (1995) - counter:1
+MovieName:Butcher Boy, The (1998) - counter:1
+MovieName:Low Life, The (1994) - counter:1
+MovieName:Office Killer (1997) - counter:1
+MovieName:I, Worst of All (Yo, la peor de todas) (1990) - counter:1
+MovieName:Invitation, The (Zaproszenie) (1986) - counter:1
+MovieName:Substance of Fire, The (1996) - counter:1
+MovieName:Baton Rouge (1988) - counter:1
+MovieName:Promise, The (Versprechen, Das) (1994) - counter:1
+MovieName:Further Gesture, A (1996) - counter:1
+MovieName:Angel on My Shoulder (1946) - counter:1
+MovieName:Wings of Courage (1995) - counter:1
+MovieName:Century (1993) - counter:1
+MovieName:Hostile Intentions (1994) - counter:1
+MovieName:Entertaining Angels: The Dorothy Day Story (1996) - counter:1
+MovieName:Lotto Land (1995) - counter:1
+MovieName:Modern Affair, A (1995) - counter:1
+MovieName:Target (1995) - counter:1
+MovieName:All Things Fair (1996) - counter:1
+MovieName:Object of My Affection, The (1998) - counter:1
+MovieName:Nightwatch (1997) - counter:1
+MovieName:Stefano Quantestorie (1993) - counter:1
+MovieName:MURDER and murder (1996) - counter:1
+MovieName:Three Lives and Only One Death (1996) - counter:1
+MovieName:B. Monkey (1998) - counter:1
+MovieName:Someone Else's America (1995) - counter:1
+MovieName:Butterfly Kiss (1995) - counter:1
+MovieName:Big One, The (1997) - counter:1
+MovieName:Brother's Kiss, A (1997) - counter:1
+MovieName:Wife, The (1995) - counter:1
+MovieName:Johns (1996) - counter:1
+MovieName:Next Step, The (1995) - counter:1
+MovieName:Sunchaser, The (1996) - counter:1
+MovieName:Tokyo Fist (1995) - counter:1
+MovieName:Very Natural Thing, A (1974) - counter:1
+MovieName:Touki Bouki (Journey of the Hyena) (1973) - counter:1
+MovieName:Hana-bi (1997) - counter:1
+MovieName:� k�ldum klaka (Cold Fever) (1994) - counter:1
+MovieName:Death in Brunswick (1991) - counter:1
+MovieName:Favor, The (1994) - counter:1
+MovieName:Yankee Zulu (1994) - counter:1
