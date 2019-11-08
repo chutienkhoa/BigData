@@ -6,3 +6,5 @@ https://tiki.vn/xa-don-gan-tuong-co-dieu-chinh-kich-thuoc-chrome-802015-80-130-c
 https://www.youtube.com/watch?v=xFCaU9IPyd8
 
 https://www.youtube.com/channel/UC4VTNMbs4bfuuPptsYj7P4w/videos
+
+golang tutorial books: https://github.com/KeKe-Li/book/tree/master/Go
